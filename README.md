@@ -15,7 +15,17 @@ Lists of useful sources for knowledge
 |[5thingsAngular](http://5thingsangular.github.io/)|Gives you 5 of the latest and greatest updates on what’s happening right now in the development and the community of Angular every week|
 
 
+## Podcasts
+|Name + Link|Description|
+|-----------|----|
+|[Javascript jabber](https://devchat.tv/js-jabber)|JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.|
+|[.NET Rocks!](https://www.dotnetrocks.com/)|.NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.|
+|[Kodsnack (Swedish)](http://kodsnack.se/)|Podcast om kod, för kodare|
 
-
-Maybe add later:
-- Newsletter: http://esnextnews.com
+## Blogs
+|Name + Link|Description|
+|-----------|----|
+|[Google Developers Blog](https://developers.googleblog.com/)||
+|[Smashing Magazine](https://www.smashingmagazine.com/)||
+|[Addy Osmani](https://addyosmani.com/blog/)|Developer @ Google and a javascript-guru|
+|[Todd Motto](https://toddmotto.com/)|Developer expert @ Google|
