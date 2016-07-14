@@ -1,5 +1,7 @@
 # Developer resources
-Lists of useful resources for knowledge
+Lists of useful sources for knowledge
+
+---------------------------------
 
 ## Newsletters
 |Name + Link|Description|
