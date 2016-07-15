@@ -7,6 +7,7 @@ Lists of useful sources for knowledge
 |Name + Link|Description|
 |-----------|----|
 |[O'Reilly Web Ops and Performance Newsletter](http://www.oreilly.com/webops-perf/newsletter.html)|Weekly web operations, DevOps, and performance news and insights from industry insiders| 
+|[Responsive design weekly](http://responsivedesignweekly.com/)|Weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links|
 |[Javascript weekly](http://javascriptweekly.com/)|Once–weekly e-mail round-up of JavaScript news and articles| 
 |[Html5 weekly](http://html5weekly.com/)|A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more|
 |[CSS weekly](http://css-weekly.com/)|Weekly e-mail roundup of css articles, tutorials, experiments and tools|
@@ -29,3 +30,13 @@ Lists of useful sources for knowledge
 |[Smashing Magazine](https://www.smashingmagazine.com/)||
 |[Addy Osmani](https://addyosmani.com/blog/)|Developer @ Google and a javascript-guru|
 |[Todd Motto](https://toddmotto.com/)|Developer expert @ Google|
+|[Jake Archiblad](https://jakearchibald.com/)|Developer @ Google|
+|[Angularjs.org](https://blog.angularjs.org/)||
+
+
+## Twitter
+|Name + Link|Description|
+|-----------|----|
+|[]()||
+|[]()||
+
