@@ -47,12 +47,14 @@ My best sources for acquiring knowledge as a fullstack developer.
 
 ## Online courses
 |Name + Link|Description|
+|-----------|----|
 |[Coursera](https://www.coursera.org/)|Universal access to the world’s best education|
 |[Udacity](https://www.udacity.com/)|Free online classes & Nanodegrees|
 
 
 ## Meetups
 |Name + Link|Description|
+|-----------|----|
 |[Sthlm.js](https://www.meetup.com/sthlm-js/)||
 |[Google Tech Talk](https://www.meetup.com/Google-Tech-Talk-Meetup/)|Meetups on a number of different technologies and areas for developers|
 |[EpiServer Stockholm](https://www.meetup.com/EPiServer-Stockholm/)||
