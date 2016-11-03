@@ -1,5 +1,5 @@
-# Developer resources
-Lists of useful sources for knowledge
+# Links And Sources For Technical Development
+My best sources for acquiring knowledge as a fullstack developer.
 
 ---------------------------------
 
@@ -21,7 +21,7 @@ Lists of useful sources for knowledge
 |-----------|----|
 |[Javascript jabber](https://devchat.tv/js-jabber)|JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.|
 |[.NET Rocks!](https://www.dotnetrocks.com/)|.NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.|
-|[Kodsnack (Swedish)](http://kodsnack.se/)|Podcast om kod, för kodare|
+|[Kodsnack (Swedish)](http://kodsnack.se/)|Podcast om kod, för kodare, av kodare|
 
 ## Blogs
 |Name + Link|Description|
@@ -37,6 +37,23 @@ Lists of useful sources for knowledge
 ## Twitter
 |Name + Link|Description|
 |-----------|----|
-|[]()||
-|[]()||
+|[@aerotwist](https://twitter.com/aerotwist)|Front-end performance expert @ Google|
+|[@JavaScriptDaily](https://twitter.com/JavaScriptDaily)|Daily JavaScript community news, links and events|
+|[@ChromiumDev](https://twitter.com/ChromiumDev)|News for developers from the Google Chrome Developer Relations team|
+|[@googledevs](https://twitter.com/googledevs)|News about and from Google developers.|
+|[@Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks)|Yep, CSS-Tricks|
+|[@RWD](https://twitter.com/RWD)|Responsive Web Design|
 
+
+## Online courses
+|Name + Link|Description|
+|[Coursera](https://www.coursera.org/)|Universal access to the world’s best education|
+|[Udacity](https://www.udacity.com/)|Free online classes & Nanodegrees|
+
+
+## Meetups
+|Name + Link|Description|
+|[Sthlm.js](https://www.meetup.com/sthlm-js/)||
+|[Google Tech Talk](https://www.meetup.com/Google-Tech-Talk-Meetup/)|Meetups on a number of different technologies and areas for developers|
+|[EpiServer Stockholm](https://www.meetup.com/EPiServer-Stockholm/)||
+|[]()||
