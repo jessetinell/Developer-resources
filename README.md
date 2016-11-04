@@ -14,6 +14,7 @@ My best sources for acquiring knowledge as a fullstack developer.
 |[Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)|Twice a month with useful tips, tricks and resources for designers and developers|
 |[ng-newsletter](http://www.ng-newsletter.com/)|Weekly newsletter of the best AngularJS content on the web|
 |[5thingsAngular](http://5thingsangular.github.io/)|Gives you 5 of the latest and greatest updates on what’s happening right now in the development and the community of Angular every week|
+|[Detectify](https://www.facebook.com/detectify/app/100265896690345/?ref=page_internal)|Security|
 
 
 ## Podcasts
@@ -29,9 +30,12 @@ My best sources for acquiring knowledge as a fullstack developer.
 |[Google Developers Blog](https://developers.googleblog.com/)||
 |[Smashing Magazine](https://www.smashingmagazine.com/)||
 |[Addy Osmani](https://addyosmani.com/blog/)|Developer @ Google and a javascript-guru|
+|[Detectify](https://blog.detectify.com/)|Security|
 |[Todd Motto](https://toddmotto.com/)|Developer expert @ Google|
 |[Jake Archiblad](https://jakearchibald.com/)|Developer @ Google|
 |[Angularjs.org](https://blog.angularjs.org/)||
+|[Haaacked](http://haacked.com/)|Guy who works @ Github writing about code related stuff|
+|[Los Techies](https://lostechies.com)|Code, ideas, thoughts, tools, architecture etc|
 
 
 ## Twitter
